@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture1.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture2.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture3-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture4-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture4-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture5-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture5-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lecture6-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lecture6-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
